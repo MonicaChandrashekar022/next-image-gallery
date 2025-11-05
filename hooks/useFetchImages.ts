@@ -1,4 +1,4 @@
-// hooks/useFetchImages.ts
+'use client';
 import { useEffect, useState } from 'react';
 import { fetchFromPicsum, ImageItem } from '../utils/api';
 

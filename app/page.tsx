@@ -1,4 +1,5 @@
 // app/page.tsx
+'use client';
 import React, { useState } from 'react';
 import { useFetchImages } from '../hooks/useFetchImages';
 import ImageCard from '../components/ImageCard';

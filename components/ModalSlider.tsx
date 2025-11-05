@@ -1,4 +1,4 @@
-// components/ModalSlider.tsx
+'use client';
 import React, { useEffect } from 'react';
 import { ImageItem } from '../utils/api';
 import { motion, AnimatePresence } from 'framer-motion';
