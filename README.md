@@ -14,6 +14,11 @@ A fully **responsive image gallery** with a **modal slider** built using **Next.
 - Error handling and loading placeholders  
 
 ---
+## 💻 Demo
+
+- Live preview: https://next-image-gallery-git-main-monicas-projects-5c69e631.vercel.app
+
+---
 
 ## ⚡ Tech Stack
 
